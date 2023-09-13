@@ -8,7 +8,7 @@ const projectsData = [
   {
     title: '¡Descarga mi app!',
     description: `¡Ya está disponible mi app "Drowk-App" donde encontrarás Herramientas, Servidores VPS, cursos, scripts, apps y muchas cosas más ANTES QUE TODOS!`,
-    imgSrc: '/static/images/drowklogo.png',
+    imgSrc: '/static/images/13sep2023_014639.png',
     href: '/blog/drowkapp',
   },
 ]
